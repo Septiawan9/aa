@@ -1,0 +1,52 @@
+#EXTM3U
+
+*************Baet Channel************
+
+////////////Manca Negara/////////////
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVwncV1yvzBggsK68XgyceC3I9XWdR5fdFzg&usqp=CAU" group-title="Mancanegara",ABC Australia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuCZBKVYGW07idMwMWrFsFrzDfED4ACYylQ&usqp=CAU" group-title="Mancanegara",Al Jazeera
+http://rr2.dens.tv/s/s16/02.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_Arabic
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjpkXHUuVUmg5yHvNjrUFj6aHbAOJlDELb1w&usqp=CAU" group-title="Mancanegara",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8a_Mhvqp1O9spoCfjj5WPBhYBlD8nd_nrg&usqp=CAU" group-title="Mancanegara",WION
+http://rr.dens.tv/h/h91/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=WION
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAm985sxn5nlw3R7DjGynK0Hpuyt5QHlRpA&usqp=CAU" group-title="Mancanegara",Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4dHt_iEn8UwrpBhFKTrmvXLu4XBgGlZJWA&usqp=CAU" group-title="Mancanegara",TBN
+http://rr2.dens.tv/s/s39/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TBN
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsEHmsKLiDOnUJ8xrlCf4VVEmAd89gIiLJQ&usqp=CAU" group-title="Mancanegara",CCTV 4
+http://rr2.dens.tv/s/s19/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyfS47PnPk7PJSAriGkPCCPmY9FsbW3NWKg&usqp=CAU" group-title="Mancanegara",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Me92xlJBkpPF5g-r2a0whlisH8dA4LTziQ&usqp=CAU" group-title="Mancanegara",UA Ctv
+http://rr.dens.tv/h/h101/S4/mnf.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKqz0mB3YkVTcpCYeDlQqXg826xVLOxtAFoA&usqp=CAU" group-title="Mancanegara",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqxvGsZGz3ELMk0B3kqxu6Jkj6GqKBuZtvQ&usqp=CAU" group-title="Mancanegara",NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529355_ico.png?ts=1654728861" group-title="Mancanegara",KBS World
+http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnjq4-TqXMeZ46qwwtHZHJtKIcK-PeiX0ew&usqp=CAU" group-title="Mancanegara",K plus
+http://210.210.155.37/session/f84875d8-312d-1
